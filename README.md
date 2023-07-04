@@ -49,7 +49,7 @@ Repositorio destinado a organizar o conteudo refernte a disciplina de POO do Cur
 
 * [Conteúdo Teórico ](#) 
 
-## :coffee:Setembro - Outubro 01
+## :coffee:Outubro - Semana 01
 
 * [Conteúdo Teórico ](#) 
 
@@ -85,11 +85,6 @@ Repositorio destinado a organizar o conteudo refernte a disciplina de POO do Cur
 * [Conteúdo Teórico ](#)
 
 ***
-## :coffee:Novembro - Semana 02
-
-* [Conteúdo Teórico ](#)
-
-***
 ## :coffee:Novembro - Semana 03
 
 * [Conteúdo Teórico ](#)
@@ -100,6 +95,7 @@ Repositorio destinado a organizar o conteudo refernte a disciplina de POO do Cur
 * [Conteúdo Teórico ](#)
 
 ***
+
 ## :coffee:Dezembro - Semana 01
 
 * [Conteúdo Teórico ](#)
